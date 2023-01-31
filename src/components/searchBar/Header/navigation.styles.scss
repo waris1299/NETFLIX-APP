@@ -1,0 +1,32 @@
+.navigation {
+   width: 100%;
+   border: 4px solid black;
+    display: flex;
+    flex-direction: row;
+    // justify-content: center;
+     align-items: center;
+    padding: 0px;
+    margin-top: 0px;
+    gap: 50px;
+    background: #141414;
+    color: white;
+
+
+
+    .sign-in{
+        margin-left: auto;
+        margin-right: 10px;
+        color: white;
+        
+   
+    }
+    .logo {
+       width: 111px;
+       height: 20px;
+       margin: 4px;
+       
+      
+   
+       
+    }
+}
